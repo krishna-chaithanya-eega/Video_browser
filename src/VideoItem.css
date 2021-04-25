@@ -1,0 +1,39 @@
+
+.Video-Container img{
+   width: 220px;
+  
+    
+    }
+
+
+.Video-Container {
+        display: grid;
+        grid-template-columns: auto auto ;
+       border-bottom: 1px solid gray;
+
+        
+}
+
+.Video-Container:active{
+    border: 1px solid gray;
+}
+
+.Video-Container:hover{
+    cursor: pointer;
+
+}
+      .item {
+        
+       padding: 3px;
+      
+        
+      }
+
+.item h5{
+    margin-top: 0;
+    
+    
+}
+    
+
+
